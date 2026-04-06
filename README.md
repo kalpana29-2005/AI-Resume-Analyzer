@@ -41,14 +41,3 @@ README.md documentation
 gitignore ignored files
 assets optional folder for sample files
 
-How to Run Locally
-
-Step 1 Clone the repository
-git clone https://github.com/kalpana29_2005/AI-Resume-Analyzer.git
-cd AI-Resume-Analyzer
-
-Step 2 Install dependencies
-pip install -r requirements.txt
-
-Step 3 Run the application
-streamlit run app.py
